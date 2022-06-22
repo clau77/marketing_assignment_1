@@ -1,0 +1,2 @@
+Hello Professor,
+This zipped folder contains the pdf version of the report, one python notebook for the codes for the questions, and another python notebook for the sampling of the larger csv file to the smaller file. Given we realized late that we did not set a seed in the sampling portion of the code, we did not integrate this chunk to the main file. If needed, please let us know and we can upload our subset data which is 857 MB.
